@@ -2,6 +2,10 @@
 
 A basic Minecraft teams plugin for spigot.
 
+I currently know that the plugin works on:
+- 1.21
+- 1.21.1
+
 ## Commands:
 
 - /teams create --Creates a new team
