@@ -19,3 +19,5 @@ A basic Minecraft teams plugin for spigot.
 - /teams forceJoin [player] [team] --Force a player into a team (add "true" at the end if you want it to ignore the team limit)
 
 - /teams enabled [True | False] --Enable and Disable the plugin
+
+Please let me know if there are any problems!
