@@ -1,0 +1,8 @@
+name: BasicTeams
+version: '1.0'
+main: me.T05619.basicTeams.BasicTeams
+api-version: '1.21'
+commands:
+  teams:
+    description: Main command for teams plugin.
+    usage: "/teams <subcommand>"
